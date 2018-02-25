@@ -823,3 +823,7 @@ there.
 /* Larger than tablet */
 /* Larger than desktop */
 /* Larger than Desktop HD */
+.columns, .column {
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  padding: 10px; }
